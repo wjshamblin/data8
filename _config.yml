@@ -316,4 +316,4 @@ defaults:
       sidebar:
         nav: sidebar-guide
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
